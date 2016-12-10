@@ -1,0 +1,26 @@
+{
+  "name": "uzh-2pc-benchmark",
+  "version": "1.0.0",
+  "description": "Benchmarks for requesting subordinates with different timing strategies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpox/uzh-2pc-benchmarks.git"
+  },
+  "keywords": [
+    "2-phase-commit"
+  ],
+  "author": "Elias Bernhaut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpox/uzh-2pc-benchmarks/issues"
+  },
+  "homepage": "https://github.com/alpox/uzh-2pc-benchmarks#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "random-js": "^1.0.8"
+  }
+}
